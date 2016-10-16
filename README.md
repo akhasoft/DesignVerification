@@ -1,3 +1,3 @@
 # DesignVerification
 
-Just stub for the moment.
+Just stub for the moment - testing in progress.
